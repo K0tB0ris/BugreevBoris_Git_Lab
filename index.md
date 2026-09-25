@@ -9,3 +9,8 @@ layout: default
 # Контакты
 - email: boris_bugreev@mail.ru
 - telegram: [Borisbugreev](https://t.me/Borisbugreev)
+
+# Одногруппники
+- ФИО: Емашов Аркадий Эдуардович
+- email: arkady.emashov1@gmail.com
+- страница: https://gugoltrue.github.io/First_Rep/
